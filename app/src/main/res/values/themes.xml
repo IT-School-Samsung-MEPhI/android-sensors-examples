@@ -1,0 +1,5 @@
+<resources>
+    <style name="Base.Theme.Sensors" parent="Theme.Material3.DayNight.NoActionBar" />
+
+    <style name="Theme.Sensors" parent="Base.Theme.Sensors" />
+</resources>
