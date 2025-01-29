@@ -9,7 +9,7 @@ android {
     defaultConfig {
         applicationId = "ru.samsung.itschool.sensors"
         minSdk = 27
-        targetSdk = 35
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
